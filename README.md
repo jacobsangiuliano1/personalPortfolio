@@ -2,7 +2,7 @@
 
 # Current Junior at the University of Denver. My major is Computer Science, along with my minors in Mathematics & Italian 
 
-## The following are courses and computer science topics I have covered or have learned through self-taught methods:
+## The following are courses and computer science topics I am learning/have covered, or have learned through self-taught methods:
 
  ### 1. Java (Currently enrolled)
  ### 2. Python Programming
