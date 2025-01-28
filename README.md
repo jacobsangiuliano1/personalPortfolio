@@ -16,5 +16,5 @@
  ### 8. SQL (Self-taught)
  ### 9. VMWare, OracleVM (Self-Taught & employment experience)
 
-### Here is a direct line to my LinkedIn for all professional inquiries: [Jacob Sangiuliano's LinkedIn Page](https://www.linkedin.com/in/jacobsangiuliano-8501a3103/)
+# Here is a direct line to my LinkedIn for all professional inquiries: [Jacob Sangiuliano's LinkedIn Page](https://www.linkedin.com/in/jacobsangiuliano-8501a3103/)
 
