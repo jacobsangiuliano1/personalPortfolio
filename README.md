@@ -2,21 +2,17 @@
 
 # Current Junior at the University of Denver. My major is Computer Science, along with my minors in Mathematics & Italian 
 
-## I am currently learning the following and/or completed classes in the following:
+## The following are courses and computer science topics I have covered or have learned through self-taught methods:
 
- ### 1. Java OOP (Currently enrolled and self-study)
+ ### 1. Java (Currently enrolled)
  ### 2. Python Programming
- ### 3. Discrete Structures
+ ### 3. Discrete Structures (Currently enrolled)
  ### 4. Data Structures & Algorithms (In Python & Java) 
  ### 5. Systems Programming (C Programming Language)
+ ### 6. HTML, CSS, JavaScript (Self-taught)
+ ### 7. Linux Scripting 
+ ### 8. SQL (Self-taught)
+ ### 9. VMWare, OracleVM (Self-Taught & employment experience)
 
- 
- 
-## My self-taught journey has taken me through the following languages/frameworks:
-
- ### * HTML, CSS, JavaScript
- ### * JSON
- ### * Relational Databases
-
-### Here is a direct line to my LinkedIn for all professional inquiries: (https://www.linkedin.com/in/jacobsangiuliano-8501a3103/)[Jacob Sangiuliano's LinkedIn Page]
+### Here is a direct line to my LinkedIn for all professional inquiries: [Jacob Sangiuliano's LinkedIn Page](https://www.linkedin.com/in/jacobsangiuliano-8501a3103/)
 
