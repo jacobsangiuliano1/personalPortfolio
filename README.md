@@ -1,4 +1,4 @@
-#Welcome to my Personal Portfolio README Section!#
+*Welcome to my Personal Portfolio README Section!*
 
 ##I am a current Junior at the University of Denver, majoring in Computer Science. 
 
