@@ -1,6 +1,6 @@
 # Welcome to my Personal Portfolio README Section!
 
-# Current Junior at the University of Denver. My major is Computer Science, along with my minors in Mathematics & Italian 
+# Current Junior at the University of Denver: I'm a Computer Science major, minoring in Mathematics & Italian 
 
 ## The following are courses and computer science topics I am learning/have covered, or have learned through self-taught methods:
 
